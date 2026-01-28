@@ -63,8 +63,8 @@ I love building **intelligent systems**, working on **AI surveillance**, and exp
 
 ## 🌍 Connect With Me
 
-📧 Email: your-email@example.com  
-🔗 LinkedIn: add-your-link  
+📧 Email: amal.k.bofficial@gmail.com.com  
+🔗 LinkedIn:  https://www.linkedin.com/in/amal-k-b-25337a254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 💻 Portfolio: coming soon...
 
 ---
