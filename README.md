@@ -49,7 +49,7 @@
 <img src="https://img.shields.io/badge/4-REPOSITORIES-00f5d4?style=for-the-badge&labelColor=030710" /><br/>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/312-CONTRIBUTIONS-38bdf8?style=for-the-badge&labelColor=030710" /><br/>
+<img src="https://img.shields.io/badge/15-CONTRIBUTIONS-38bdf8?style=for-the-badge&labelColor=030710" /><br/>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/3%2B_Months-INTERN_EXP-7c3aed?style=for-the-badge&labelColor=030710" /><br/>
@@ -68,15 +68,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amalkb10&show_icons=true&bg_color=030710&title_color=00f5d4&icon_color=7c3aed&text_color=eef2ff&border_color=00f5d430&border_radius=12&count_private=true&hide_border=false"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalkb10&layout=compact&bg_color=030710&title_color=00f5d4&text_color=eef2ff&border_color=00f5d430&border_radius=12&langs_count=6&hide_border=false"/>
-
-</div>
-
-<div align="center">
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalkb10&background=030710&ring=00f5d4&fire=f472b6&currStreakLabel=00f5d4&sideLabels=38bdf8&currStreakNum=ffffff&sideNums=ffffff&dates=eef2ff80&border=00f5d430&border_radius=12"/>
 
 </div>
@@ -94,9 +85,9 @@
 <div align="center">
 <br/>
 
-| 🔥 Current Streak | 📅 Total 2025–26 | 🏆 Best Week |
+| 🔥 Current Streak | 📅 Total Contributions | 🏆 Longest Streak |
 |:-:|:-:|:-:|
-| **14 days** | **312 contributions** | **47 commits** |
+| **1 day** | **15 contributions** | **1 day** |
 
 </div>
 
