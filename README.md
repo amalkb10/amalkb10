@@ -1,24 +1,165 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Full Stack Web Development projects as an intern at Prinston Smart Engineers<br><br>👯 I’m looking to collaborate on<br>Web development projects (Frontend, Backend, or Full Stack)<br><br>🤝 I’m looking for help with<br>Advanced backend development, system design, and real-world project optimization<br><br>🌱 I’m currently learning<br>Full Stack Development (HTML, CSS, JavaScript) and improving my problem-solving skills<br><br>💬 Ask me about<br>Web development, internships, coding basics, and project building<br><br>⚡ Fun fact<br>I enjoy building real-world projects and continuously upgrading my tech skills 🚀
+<div align="center">
 
+# Hi there, I'm Amal K B 👋
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1B8QAFwNzu/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@AMAL_KB) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amal-k-b-25337a254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/amalkb2004) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)] [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/SouthInvestigator589/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@amal_k_b_29 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amal.k.bofficial@gmail.com) 
+### Full Stack Developer · Deep Learning Enthusiast · IoT Explorer
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amalkb10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=amalkb10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amalkb10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amalkb-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amalkb)
+[![GitHub](https://img.shields.io/badge/GitHub-amalkb10-181717?style=flat&logo=github&logoColor=white)](https://github.com/amalkb10)
+[![Email](https://img.shields.io/badge/Email-amal.k.bofficial@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:amal.k.bofficial@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Coorg,%20Karnataka-34A853?style=flat&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Coorg,Karnataka)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amalkb10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amalkb10&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amalkb10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+```yaml
+name        : Amal K B
+role        : Full Stack Developer (Fresher)
+education   : B.E. Computer Science Engineering — Coorg Institute of Technology (2022–2026)
+internship  : Full Stack Web Development Intern @ Prinston Smart Engineer, Bangalore
+location    : Virajpet, Coorg, Karnataka, India
+open_to     : Full-time roles at MNCs · Relocation · Remote
+interests   : [Web Development, Deep Learning, IoT, Smart Systems]
+```
+
+I'm a CS graduate passionate about building real-world products — from intelligent surveillance systems powered by **Vision Transformers** to full-stack web apps with **React, Node.js & MongoDB**. I love bridging software and hardware through IoT projects and thrive in collaborative, agile environments.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat&logo=postman&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### 🤖 AI / ML & IoT
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+
+### 🧰 Languages & Tools
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
+
+### 🎯 [Unusual Activity Identifier Using Deep Learning](https://github.com/amalkb10)
+> **Real-time surveillance system using Vision Transformers · Python · IoT**
+
+- 🔍 Detects unusual activities (fights, accidents, sudden movements) in live video streams using **Vision Transformers (ViT)**
+- ⚡ Optimized for edge deployment via **model pruning & quantization** — runs on low-resource embedded hardware
+- 📲 Triggers instant alerts via **SMS, email, and IoT sirens** on anomaly detection
+- 🏙️ Applicable in smart cities, industrial safety, and campus surveillance
+
+---
+
+### 🍔 [Food Ordering Website](https://github.com/amalkb10) *(In Progress)*
+> **Full-Stack Web App · React.js · Node.js · Express.js · MongoDB**
+
+- 🛒 Product browsing, cart management, and online order placement
+- 📱 Fully responsive React.js frontend with clean component architecture
+- 🔗 RESTful backend APIs integrated with MongoDB for seamless data flow
+
+---
+
+### 🐄 [Life Stick Management Using Arduino](https://github.com/amalkb10)
+> **IoT Mini Project · Arduino · RFID · Embedded Systems**
+
+- 📡 RFID-based device to monitor and record **livestock attendance** as animals pass through a gate
+- 📊 Automated sensor data logging for real-time farm presence tracking
+- 🌾 Assists farm management with actionable, live data
+
+---
+
+## 💼 Experience
+
+**Full Stack Web Development Intern** · *Feb 2025 – Apr 2025*  
+📍 **Prinston Smart Engineer, Bangalore**
+
+- Built and maintained full stack features using **React.js, Node.js, and MongoDB**
+- Designed **RESTful APIs** and integrated front-end components with back-end services
+- Participated in **code reviews, agile sprints**, and cross-team collaborative debugging
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Score | Year |
+|---|---|---|---|
+| B.E. Computer Science Engineering | Coorg Institute of Technology | CGPA: 7.3 | 2022 – 2026 |
+| XII – State Board | St. Michael PU College | 70% | 2020 – 2022 |
+| X – State Board | St. Anne's School | 81.61% | 2020 |
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer |
+|---|---|
+| 📊 Data Visualization Using Power BI | Microsoft / Online |
+| 🤖 Machine Learning Implementation | Online |
+| ☁️ Cloud Computing | Online |
+| 🎨 Computer Graphics: Advanced Moving Car | Online |
+
+---
+
+## 🏆 Positions of Responsibility
+
+- 🧑‍💻 **Hackathon Organizer** — Organized and coordinated hackathons at Coorg Institute of Technology, fostering peer collaboration and technical innovation among students
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Amal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amalkb10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amalkb10&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=amalkb10&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+I'm actively looking for **full-time opportunities** at MNCs as a fresher. If you think I'd be a good fit for your team, let's talk!
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amalkb)
+[![Email Me](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amal.k.bofficial@gmail.com)
+[![GitHub Follow](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amalkb10)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+![Profile Views](https://komarev.com/ghpvc/?username=amalkb10&color=blue&style=flat)
+
+</div>
