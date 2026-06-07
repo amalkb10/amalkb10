@@ -187,25 +187,59 @@ Others      ██████                                         6%
 ## 📌 Pinned Repositories
 
 <div align="center">
+<table>
+<tr>
 
-[![AI-Surveillance-UAD](https://github-readme-stats.vercel.app/api/pin/?username=amalkb10&repo=AI-Surveillance-UAD&bg_color=030710&title_color=00f5d4&text_color=eef2ff&icon_color=7c3aed&border_color=00f5d430&border_radius=12)](https://github.com/amalkb10/AI-Surveillance-UAD)
-&nbsp;
-[![Coorg-Pantry](https://github-readme-stats.vercel.app/api/pin/?username=amalkb10&repo=Coorg-Pantry&bg_color=030710&title_color=00f5d4&text_color=eef2ff&icon_color=7c3aed&border_color=00f5d430&border_radius=12)](https://github.com/amalkb10/Coorg-Pantry)
+<td width="50%" valign="top">
+<h3><a href="https://github.com/amalkb10/AI-Surveillance-UAD">🔬 AI-Surveillance-UAD</a></h3>
+<p>Vision Transformer model for unusual activity detection. Pruned &amp; quantized for embedded deployment.</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/⭐_12-000?style=flat-square&labelColor=030710&color=fbbf24"/>
+  <img src="https://img.shields.io/badge/🍴_3-000?style=flat-square&labelColor=030710&color=38bdf8"/>
+</p>
+</td>
 
-[![Weather-Monitor](https://github-readme-stats.vercel.app/api/pin/?username=amalkb10&repo=Weather-Monitor&bg_color=030710&title_color=00f5d4&text_color=eef2ff&icon_color=7c3aed&border_color=00f5d430&border_radius=12)](https://github.com/amalkb10/Weather-Monitor)
-&nbsp;
-[![Smart-Livestock-RFID](https://github-readme-stats.vercel.app/api/pin/?username=amalkb10&repo=Smart-Livestock-RFID&bg_color=030710&title_color=00f5d4&text_color=eef2ff&icon_color=7c3aed&border_color=00f5d430&border_radius=12)](https://github.com/amalkb10/Smart-Livestock-RFID)
+<td width="50%" valign="top">
+<h3><a href="https://github.com/amalkb10/Coorg-Pantry">🛒 Coorg-Pantry</a></h3>
+<p>Full-stack MERN food ordering platform with cart, auth, and RESTful backend for Coorg-region products.</p>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/⭐_8-000?style=flat-square&labelColor=030710&color=fbbf24"/>
+  <img src="https://img.shields.io/badge/🍴_2-000?style=flat-square&labelColor=030710&color=38bdf8"/>
+</p>
+</td>
 
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+<h3><a href="https://github.com/amalkb10/Weather-Monitor">🌦️ Weather-Monitor</a></h3>
+<p>React + Node.js dashboard with live weather API, dynamic charts, and real-time data updates.</p>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/⭐_5-000?style=flat-square&labelColor=030710&color=fbbf24"/>
+  <img src="https://img.shields.io/badge/🍴_1-000?style=flat-square&labelColor=030710&color=38bdf8"/>
+</p>
+</td>
+
+<td width="50%" valign="top">
+<h3><a href="https://github.com/amalkb10/Smart-Livestock-RFID">🐄 Smart-Livestock-RFID</a></h3>
+<p>Arduino + RFID IoT attendance tracker for livestock, with automated sensor data logging.</p>
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/⭐_4-000?style=flat-square&labelColor=030710&color=fbbf24"/>
+  <img src="https://img.shields.io/badge/🍴_1-000?style=flat-square&labelColor=030710&color=38bdf8"/>
+</p>
+</td>
+
+</tr>
+</table>
 </div>
-
-<br/>
-
-| &nbsp; | Repo | Description | Lang | ⭐ | 🍴 |
-|:--:|:--|:--|:--:|:--:|:--:|
-| 🔬 | [**AI-Surveillance-UAD**](https://github.com/amalkb10/AI-Surveillance-UAD) | Vision Transformer model for unusual activity detection. Pruned & quantized for embedded deployment. | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=python&logoColor=white) | 12 | 3 |
-| 🛒 | [**Coorg-Pantry**](https://github.com/amalkb10/Coorg-Pantry) | Full-stack MERN food ordering platform with cart, auth, and RESTful backend for Coorg-region products. | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 8 | 2 |
-| 🌦️ | [**Weather-Monitor**](https://github.com/amalkb10/Weather-Monitor) | React + Node.js dashboard with live weather API, dynamic charts, and real-time data updates. | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 5 | 1 |
-| 🐄 | [**Smart-Livestock-RFID**](https://github.com/amalkb10/Smart-Livestock-RFID) | Arduino + RFID IoT attendance tracker for livestock, with automated sensor data logging. | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) | 4 | 1 |
 
 ---
 
