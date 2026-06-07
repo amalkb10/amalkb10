@@ -1,63 +1,95 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,100:533483&height=200&section=header&text=Amal%20K%20B&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Deep%20Learning%20%7C%20IoT&descAlignY=58&descSize=18" width="100%"/>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:7c3aed,100:f472b6&height=200&section=header&text=Amal%20K%20B&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%2F%20ML%20Enthusiast%20%7C%20IoT%20Builder&descAlignY=55&descSize=18&animation=fadeIn" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amal%20K%20B-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-k-b-25337a254)
-[![GitHub](https://img.shields.io/badge/GitHub-amalkb10-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amalkb10)
-[![Email](https://img.shields.io/badge/Email-amal.k.bofficial%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amal.k.bofficial@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%207204791362-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+917204791362)
-[![Location](https://img.shields.io/badge/Coorg%2C%20Karnataka-India-FF5722?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Coorg,Karnataka)
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%2B+Node.js+%2B+MongoDB+Stack;Vision+Transformer+%7C+Deep+Learning;Open+to+SDE+Roles+at+MNCs+%F0%9F%8E%AF)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Profile Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=amalkb10&color=00f5d4&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-k-b-25337a254)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amal.k.bofficial@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amalkb10)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
 ```yaml
 name        : Amal K B
-degree      : B.E. Computer Science Engineering — Coorg Institute of Technology
-graduation  : 2026 | CGPA: 7.3
-internship  : Full Stack Developer @ Prinston Smart Engineer, Bangalore (Feb–Apr 2025)
-speciality  : Full Stack Web Dev · Deep Learning · IoT & Embedded Systems
-open_to     : Full-time SDE roles · MNCs · Startups · Relocation
+location    : Virajpet, Coorg, Karnataka, India
+education   : B.E. Computer Science Engineering — Coorg Institute of Technology (CGPA: 7.0)
+graduation  : 2026
+experience  : Full Stack Web Development Intern @ Prinston Smart Engineer, Bangalore (Feb–Apr 2025)
+status      : 🟢 Actively seeking full-time SDE roles at MNCs | Open to relocation
+interests   : [Full Stack Web Dev, AI/ML, Computer Vision, Embedded IoT, Hackathons]
 ```
 
-> Motivated CS graduate passionate about building end-to-end solutions — from **Vision Transformer-based surveillance systems** to **full-stack MERN web apps**. Experienced in professional agile environments through my internship, and skilled at bridging software with hardware through embedded IoT projects.
+> *"I build end-to-end products — from MERN web apps to Vision Transformer surveillance systems — driven by real-world impact."*
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### 🌐 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🤖 AI / ML & IoT
+### AI / ML & IoT
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![RFID](https://img.shields.io/badge/RFID%20%2F%20IoT-0078D4?style=for-the-badge&logo=iot&logoColor=white)
 
-### 🧰 Languages & Tools
+### Languages & Tools
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+<!-- GitHub Stats Cards — side by side -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amalkb10&show_icons=true&theme=transparent&hide_border=true&title_color=00f5d4&icon_color=7c3aed&text_color=f0f4ff&bg_color=03050f&count_private=true&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalkb10&layout=compact&theme=transparent&hide_border=true&title_color=00f5d4&text_color=f0f4ff&bg_color=03050f&langs_count=6" />
+
+<br/><br/>
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amalkb10&theme=transparent&hide_border=true&ring=00f5d4&fire=f472b6&currStreakLabel=00f5d4&sideLabels=7c3aed&dates=rgba(240,244,255,0.5)&background=03050f&stroke=rgba(255,255,255,0.08)" />
+
+<br/><br/>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amalkb10&bg_color=03050f&color=00f5d4&line=7c3aed&point=f472b6&area=true&area_color=00f5d4&hide_border=true&title_color=00f5d4" />
 
 </div>
 
@@ -65,146 +97,106 @@ open_to     : Full-time SDE roles · MNCs · Startups · Relocation
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+
+<!-- Project Cards -->
+[![AI Surveillance](https://github-readme-stats.vercel.app/api/pin/?username=amalkb10&repo=AI-Surveillance-Unusual-Activity-Detection&theme=transparent&hide_border=true&title_color=00f5d4&text_color=f0f4ff&bg_color=03050f&icon_color=7c3aed)](https://github.com/amalkb10/AI-Surveillance-Unusual-Activity-Detection)
+&nbsp;&nbsp;
+[![Coorg Pantry](https://github-readme-stats.vercel.app/api/pin/?username=amalkb10&repo=Full-stack-project-Coorg-Pantry-System-Food-and-Spices&theme=transparent&hide_border=true&title_color=00f5d4&text_color=f0f4ff&bg_color=03050f&icon_color=7c3aed)](https://github.com/amalkb10/Full-stack-project-Coorg-Pantry-System-Food-and-Spices)
+
+[![Weather Monitor](https://github-readme-stats.vercel.app/api/pin/?username=amalkb10&repo=Weather-Monitoring-System-Using-Full-Stack-&theme=transparent&hide_border=true&title_color=00f5d4&text_color=f0f4ff&bg_color=03050f&icon_color=7c3aed)](https://github.com/amalkb10/Weather-Monitoring-System-Using-Full-Stack-)
+&nbsp;&nbsp;
+[![Smart Livestock](https://github-readme-stats.vercel.app/api/pin/?username=amalkb10&repo=Smart-Livestock-Attendance-System&theme=transparent&hide_border=true&title_color=00f5d4&text_color=f0f4ff&bg_color=03050f&icon_color=7c3aed)](https://github.com/amalkb10/Smart-Livestock-Attendance-System)
+
+</div>
 
 ### 🔍 AI Surveillance — Unusual Activity Detection
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amalkb10/AI-Surveillance-Unusual-Activity-Detection)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Vision%20Transformers-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-0078D4?style=flat-square)
+> Real-time surveillance using **Vision Transformers** to detect fights, accidents & sudden movements. Edge-optimized via **model pruning & quantization** for embedded deployment.
 
-Real-time surveillance system using **Vision Transformers** to detect fights, accidents & sudden movements in video streams.
+- 🧠 Model: Vision Transformer (ViT) fine-tuned on custom video dataset
+- ⚡ Optimization: Quantization-aware training + structured pruning (60% size reduction)
+- 📡 Deployment: Raspberry Pi / Jetson Nano edge device
+- 🏷️ Stack: `Python` `PyTorch` `OpenCV` `ONNX` `Raspberry Pi`
 
-- ⚡ Edge-optimized via **model pruning & quantization**
-- 📲 Instant alerts via **SMS, email & IoT sirens**
-- 🏙️ Built for smart cities & industrial safety
+### 🍛 Coorg Pantry — Full-Stack Food Ordering App
+> MERN stack e-commerce platform for Coorg-region food & spice products with full cart, auth, and order management.
 
-</td>
-<td width="50%" valign="top">
-
-### 🍛 Coorg Pantry — Food & Spices Full Stack App
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amalkb10/Full-stack-project-Coorg-Pantry-System-Food-and-Spices)
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-Full-stack MERN food ordering platform for Coorg-region products with browsing, cart & order management.
-
-- 🛒 Product browsing & **cart management**
-- 🔗 RESTful APIs with **Node.js + Express**
-- 📱 Fully **responsive React.js** frontend
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+- 🌐 Frontend: React.js with responsive UI and dynamic routing
+- ⚙️ Backend: Node.js + Express REST API with JWT authentication
+- 🗄️ Database: MongoDB with Mongoose ODM
+- 🏷️ Stack: `React.js` `Node.js` `Express` `MongoDB` `JWT`
 
 ### 🌦️ Weather Monitoring System
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amalkb10/Weather-Monitoring-System-Using-Full-Stack-)
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![API](https://img.shields.io/badge/Weather%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+> Full-stack dashboard with live weather API, real-time updates, and dynamic Chart.js visualizations.
 
-Full-stack weather monitoring dashboard with real-time data, built using MERN stack and live weather APIs.
-
-- 🌍 Real-time **weather data** display
-- 📊 Clean dashboard UI with **React.js**
-- 🔄 Live API integration & dynamic updates
-
-</td>
-<td width="50%" valign="top">
+- 🏷️ Stack: `React.js` `Node.js` `Weather API` `Chart.js`
 
 ### 🐄 Smart Livestock Attendance System
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amalkb10/Smart-Livestock-Attendance-System)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![RFID](https://img.shields.io/badge/RFID-0078D4?style=flat-square)
-![IoT](https://img.shields.io/badge/Embedded%20Systems-green?style=flat-square)
+> RFID + Arduino IoT device for automated livestock tracking through gates with real-time data logging.
 
-RFID-based IoT device to monitor and record livestock attendance as animals pass through a gate.
-
-- 📡 **RFID-based** real-time tracking
-- 📊 Automated **sensor data logging**
-- 🌾 Practical farm management solution
-
-</td>
-</tr>
-</table>
+- 🏷️ Stack: `Arduino` `RFID (RC522)` `C++` `Serial Monitor`
 
 ---
 
-## 💼 Internship Experience
+## 💼 Experience
 
-**🏢 Full Stack Web Development Intern** · Feb 2025 – Apr 2025
-**Prinston Smart Engineer, Bangalore**
+| Role | Company | Period | Location |
+|------|---------|--------|----------|
+| 🧑‍💻 **Full Stack Web Development Intern** | Prinston Smart Engineer | Feb 2025 – Apr 2025 | Bangalore, India |
+| 🎯 **Hackathon Organizer** | Coorg Institute of Technology | 2023 – 2026 | Karnataka, India |
 
-- Developed and maintained full stack application features using **React.js, Node.js, and MongoDB**
-- Worked on **RESTful API design**, front-end component development, and database integration
-- Participated in **code reviews, agile sprints**, and collaborative debugging across the 3-month engagement
+**Internship highlights:**
+- Built and maintained full-stack features using **React.js, Node.js & MongoDB** in a production environment
+- Designed **RESTful APIs**, reusable React components, and end-to-end database integration
+- Participated in **agile sprints, code reviews** and cross-team debugging
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Certifications
 
 | Degree | Institution | Score | Year |
-|:---|:---|:---:|:---:|
-| 🎓 B.E. Computer Science Engineering | Coorg Institute of Technology | CGPA: 7.3 | 2022 – 2026 |
-| 📘 XII – State Board | St. Michael PU College | 70% | 2020 – 2022 |
-| 📗 X – State Board | St. Anne's School | 81.61% | 2020 |
+|--------|-------------|-------|------|
+| 🎓 B.E. Computer Science Engineering | Coorg Institute of Technology | **7.0 CGPA** | 2022–2026 |
+| 📘 XII — State Board | St. Michael PU College | 63% | 2020–2022 |
+| 📗 X — State Board | St. Anne's School | 81.61% | 2020 |
+
+### 📜 Certifications
+- 📊 **Data Visualization Using Power BI**
+- 🤖 **Machine Learning Implementation**
+- ☁️ **Cloud Computing**
+- 🎨 **Computer Graphics: Advanced Moving Car**
 
 ---
 
-## 📜 Certifications
+## 📈 Coding Activity
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   ████████████████░░░░░   44.2%
+Python       ████████░░░░░░░░░░░░░   27.1%
+C / C++      ████░░░░░░░░░░░░░░░░░   13.8%
+CSS / HTML   ███░░░░░░░░░░░░░░░░░░    9.1%
+Others       ██░░░░░░░░░░░░░░░░░░░    5.8%
+```
+<!--END_SECTION:waka-->
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-![Power BI](https://img.shields.io/badge/Data%20Visualization%20Using%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![ML](https://img.shields.io/badge/Machine%20Learning%20Implementation-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud%20Computing-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Graphics](https://img.shields.io/badge/Computer%20Graphics%20Project-6C3483?style=for-the-badge&logo=opengl&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amal%20K%20B-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-k-b-25337a254)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-amalkb10-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amalkb10)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-amal.k.bofficial%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amal.k.bofficial@gmail.com)
+&nbsp;
+[![Phone](https://img.shields.io/badge/Phone-%2B91%207204791362-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917204791362)
 
-</div>
+<br/><br/>
 
----
-
-## 🏆 Positions of Responsibility
-
-- 🧑‍💻 **Hackathon Organizer** — Organized and coordinated hackathons at Coorg Institute of Technology, fostering peer collaboration and technical innovation among students
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amalkb10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalkb10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=amalkb10&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="49%"/>
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-**🟢 Open to full-time SDE opportunities at MNCs — fresher, ready to relocate!**
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-k-b-25337a254)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amal.k.bofficial@gmail.com)
-[![GitHub Follow](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amalkb10)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:533483,100:0f3460&height=100&section=footer" width="100%"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=amalkb10&color=533483&style=flat-square&label=Profile+Views)
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,50:7c3aed,100:00f5d4&height=120&section=footer&animation=fadeIn" />
 
 </div>
